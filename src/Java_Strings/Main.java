@@ -1,7 +1,13 @@
+//public class Main {
+//
+//    public static void main(String[] args) {
+//        System.out.println("Hello GitHub Project!");
+//    }
+//}
 package Java_Strings;
 import java.util.Scanner;
 
-public class String {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         java.lang.String myName = input.nextLine();
