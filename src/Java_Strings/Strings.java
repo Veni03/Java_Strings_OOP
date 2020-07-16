@@ -13,5 +13,5 @@ public class Strings {
         String secondWord= input.next();
         Second_word_Position(firstWord, secondWord);
     }
-
+ 
 }
